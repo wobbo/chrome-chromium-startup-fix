@@ -1,0 +1,9 @@
+{
+  "uuid": "chrome-chromium-startup-fix@wobbo.org",
+  "name": "Chrome & Chromium Startup Fix",
+  "description": "Fixes stuck GNOME startup feedback for Google Chrome, Chromium and Chromium-based web apps without affecting normal startup feedback for other applications.",
+  "shell-version": [
+    "48"
+  ],
+  "url": "https://github.com/wobbo/chrome-chromium-startup-fix"
+}
