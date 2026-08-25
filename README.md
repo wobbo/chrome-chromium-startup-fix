@@ -25,17 +25,6 @@ A short 500 ms delay gives GNOME time to associate the new window with its deskt
 
 Anonymous startup sequences are only considered for 5 seconds around the browser window creation. This limits the chance of affecting an unrelated application that happens to start at the same time.
 
-## Supported applications
-
-The extension recognizes common desktop IDs for:
-
-- Google Chrome
-- Chromium
-- Chromium Browser
-- Chrome/Chromium web apps and installed site shortcuts
-
-This includes web apps whose desktop IDs begin with `chrome-`.
-
 ## Tested on
 
 - Debian 13 (Trixie)
