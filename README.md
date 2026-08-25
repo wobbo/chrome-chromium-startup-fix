@@ -90,14 +90,3 @@ for submission to:
 
 https://extensions.gnome.org/
 
-## License
-
-GPL-2.0-or-later
-
-## Author
-
-Ernst Lanser (Wobbo)
-
-Project:
-
-https://github.com/wobbo/chrome-chromium-startup-fix
