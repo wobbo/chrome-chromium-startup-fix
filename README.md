@@ -4,7 +4,7 @@ Small GNOME Shell extension I made to fix a startup problem I was seeing with Go
 
 Sometimes Chrome or Chromium is already open, but GNOME still thinks it is starting. The loading/busy cursor then stays visible on the desktop for a while.
 
-Setting StartupNotify=false in the desktop file did not fix it for me, so I made this extension.
+Setting `StartupNotify=false` in the desktop file did not fix it for me, so I made this extension.
 
 The extension watches Chrome and Chromium windows and finishes the GNOME startup sequence when the browser has opened.
 
