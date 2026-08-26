@@ -18,9 +18,9 @@ This is mainly made for my own Debian/GNOME setup. Other GNOME versions may work
 Install
 
 Copy the extension to:
-
+```bash
 ~/.local/share/gnome-shell/extensions/chrome-chromium-startup-fix@wobbo.org/
-
+```
 The directory contains:
 
 extension.js
@@ -29,9 +29,9 @@ metadata.json
 Log out and back in, then enable Chrome & Chromium Startup Fix in the GNOME Extensions app.
 
 For a system-wide install use:
-
+```bash
 /usr/share/gnome-shell/extensions/chrome-chromium-startup-fix@wobbo.org/
-
+```
 GNOME Extensions
 
 It can also be packaged with:
