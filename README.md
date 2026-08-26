@@ -1,4 +1,4 @@
-Chrome & Chromium Startup Fix
+# Chrome & Chromium Startup Fix
 
 Small GNOME Shell extension I made to fix a startup problem I was seeing with Google Chrome and Chromium.
 
@@ -15,7 +15,7 @@ Debian 13 (Trixie) GNOME 48 (Wayland)
 
 This is mainly made for my own Debian/GNOME setup. Other GNOME versions may work too, but I have not tested them yet.
 
-Install
+## Install
 
 Copy the extension to:
 ```bash
@@ -32,10 +32,3 @@ For a system-wide install use:
 ```bash
 /usr/share/gnome-shell/extensions/chrome-chromium-startup-fix@wobbo.org/
 ```
-GNOME Extensions
-
-It can also be packaged with:
-
-gnome-extensions pack
-
-for uploading to extensions.gnome.org.
