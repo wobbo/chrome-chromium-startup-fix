@@ -11,7 +11,7 @@ Debian 13 (Trixie) GNOME 48 (Wayland) AMD64 and ARM64
 
 ## Install
 
-Copy the extension to:
+Copy the extension `extension.js` and `metadata.json` to:
 ```bash
 ~/.local/share/gnome-shell/extensions/chrome-chromium-startup-fix@wobbo.org/
 ```
